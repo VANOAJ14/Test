@@ -13,11 +13,14 @@ public class employee {
 	char initial = 'v';
 			String email="vanoaj@gmail.com";
 			boolean  isEmp = true;
+			System.out.println("hiii java");
+			System.out.println("vanojjj");
 			String ss="Vanoj kumar";
 			int a=100;
 			System.out.println(a);
 			boolean b= false;
 			System.out.println(b);
+
 	}
 
 }
